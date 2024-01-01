@@ -54,11 +54,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="GO" />
       <br>GO
     </td>
     <td align="center"  width="96">
-        <img src="<svg xmlns="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+        <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
       <br>Ansible
     </td>
     <td align="center" width="96">
@@ -73,7 +73,7 @@
         <img src="https://skillicons.dev/icons?i=java" width="58" height="58" alt="Java" />
       <br>Java
     </td>
-            <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>jenkins
     </td>
